@@ -1,0 +1,16 @@
+.customer-dashboard {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.total-customer-card,
+.chart-card {
+  margin-bottom: 20px;
+}
+
+.chart-card canvas {
+  max-height: 400px;
+  max-width: 20%;
+}
